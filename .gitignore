@@ -63,3 +63,5 @@ typings/
 # subbordinated git clones for proxy server
 Restaurant_details/
 Review-Module/
+lib/
+server/
