@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# subbordinated git clones for proxy server
+Restaurant_details/
+Review-Module/
